@@ -1,0 +1,513 @@
+{
+  "data": {
+    "content": [
+      {
+        "id": 79,
+        "playerId": 398795,
+        "kycRequestableDocId": 57,
+        "author": "admin",
+        "historyLogAction": "DELETE",
+        "created": "2023-08-30T16:02:35",
+        "changedFields": [
+          {
+            "fieldName": "DocumentType",
+            "prevValue": "sdfdsafadgfsgfs"
+          },
+          {
+            "fieldName": "PaymentAccountCategory",
+            "prevValue": "Payment card"
+          },
+          {
+            "fieldName": "VerificationStatus",
+            "prevValue": "WAIT_USER_UPLOAD"
+          },
+          {
+            "fieldName": "Requested",
+            "prevValue": false
+          }
+        ]
+      },
+      {
+        "id": 78,
+        "playerId": 398795,
+        "kycRequestableDocId": 57,
+        "author": "admin",
+        "historyLogAction": "CREATE",
+        "created": "2023-08-30T16:02:27",
+        "changedFields": [
+          {
+            "fieldName": "DocumentType",
+            "value": "sdfdsafadgfsgfs"
+          },
+          {
+            "fieldName": "PaymentAccountCategory",
+            "value": "Payment card"
+          },
+          {
+            "fieldName": "VerificationStatus",
+            "value": "WAIT_USER_UPLOAD"
+          },
+          {
+            "fieldName": "Requested",
+            "value": false
+          }
+        ]
+      },
+      {
+        "id": 77,
+        "playerId": 398795,
+        "kycRequestableDocId": 55,
+        "author": "admin",
+        "historyLogAction": "UPDATE",
+        "created": "2023-08-30T16:02:18",
+        "currentDocumentType": "Credit Card next to Face",
+        "changedFields": [
+          {
+            "fieldName": "VerificationStatus",
+            "value": "WAIT_USER_UPLOAD",
+            "prevValue": "VERIFIED_SUCCESSFULLY"
+          }
+        ]
+      },
+      {
+        "id": 76,
+        "playerId": 398795,
+        "kycRequestableDocId": 56,
+        "author": "admin",
+        "historyLogAction": "UPDATE",
+        "created": "2023-08-30T16:02:10",
+        "currentDocumentType": "3rd Party ID",
+        "changedFields": [
+          {
+            "fieldName": "VerificationStatus",
+            "value": "WAIT_USER_UPLOAD",
+            "prevValue": "VERIFIED_SUCCESSFULLY"
+          }
+        ]
+      },
+      {
+        "id": 75,
+        "playerId": 398795,
+        "kycRequestableDocId": 54,
+        "author": "admin",
+        "historyLogAction": "UPDATE",
+        "created": "2023-08-30T16:02:05",
+        "currentDocumentType": "ID next to Face",
+        "changedFields": [
+          {
+            "fieldName": "VerificationStatus",
+            "value": "WAIT_USER_UPLOAD",
+            "prevValue": "VERIFIED_SUCCESSFULLY"
+          }
+        ]
+      },
+      {
+        "id": 74,
+        "playerId": 398795,
+        "kycRequestableDocId": 53,
+        "author": "admin",
+        "historyLogAction": "UPDATE",
+        "created": "2023-08-30T16:02:00",
+        "currentDocumentType": "Address verification",
+        "changedFields": [
+          {
+            "fieldName": "VerificationStatus",
+            "value": "WAIT_USER_UPLOAD",
+            "prevValue": "VERIFIED_SUCCESSFULLY"
+          }
+        ]
+      },
+      {
+        "id": 73,
+        "playerId": 398795,
+        "kycRequestableDocId": 52,
+        "author": "admin",
+        "historyLogAction": "UPDATE",
+        "created": "2023-08-30T16:01:55",
+        "currentDocumentType": "ID/Selfie verification",
+        "changedFields": [
+          {
+            "fieldName": "VerificationStatus",
+            "value": "WAIT_USER_UPLOAD",
+            "prevValue": "VERIFIED_SUCCESSFULLY"
+          }
+        ]
+      },
+      {
+        "id": 72,
+        "playerId": 398795,
+        "kycRequestableDocId": 56,
+        "author": "admin",
+        "historyLogAction": "UPDATE",
+        "created": "2023-08-30T16:01:49",
+        "currentDocumentType": "3rd Party ID",
+        "changedFields": [
+          {
+            "fieldName": "VerificationStatus",
+            "value": "VERIFIED_SUCCESSFULLY",
+            "prevValue": "WAIT_USER_UPLOAD"
+          },
+          {
+            "fieldName": "Requested",
+            "value": false,
+            "prevValue": true
+          },
+          {
+            "fieldName": "Comment",
+            "value": "",
+            "prevValue": "[required]"
+          }
+        ]
+      },
+      {
+        "id": 71,
+        "playerId": 398795,
+        "kycRequestableDocId": 55,
+        "author": "admin",
+        "historyLogAction": "UPDATE",
+        "created": "2023-08-30T16:01:45",
+        "currentDocumentType": "Credit Card next to Face",
+        "changedFields": [
+          {
+            "fieldName": "VerificationStatus",
+            "value": "VERIFIED_SUCCESSFULLY",
+            "prevValue": "WAIT_USER_UPLOAD"
+          },
+          {
+            "fieldName": "Requested",
+            "value": false,
+            "prevValue": true
+          },
+          {
+            "fieldName": "Comment",
+            "value": "",
+            "prevValue": "[required]"
+          }
+        ]
+      },
+      {
+        "id": 70,
+        "playerId": 398795,
+        "kycRequestableDocId": 54,
+        "author": "admin",
+        "historyLogAction": "UPDATE",
+        "created": "2023-08-30T16:01:40",
+        "currentDocumentType": "ID next to Face",
+        "changedFields": [
+          {
+            "fieldName": "VerificationStatus",
+            "value": "VERIFIED_SUCCESSFULLY",
+            "prevValue": "WAIT_USER_UPLOAD"
+          },
+          {
+            "fieldName": "Requested",
+            "value": false,
+            "prevValue": true
+          },
+          {
+            "fieldName": "Comment",
+            "value": "",
+            "prevValue": "[required]"
+          }
+        ]
+      },
+      {
+        "id": 69,
+        "playerId": 398795,
+        "kycRequestableDocId": 53,
+        "author": "admin",
+        "historyLogAction": "UPDATE",
+        "created": "2023-08-30T16:01:36",
+        "currentDocumentType": "Address verification",
+        "changedFields": [
+          {
+            "fieldName": "VerificationStatus",
+            "value": "VERIFIED_SUCCESSFULLY",
+            "prevValue": "WAIT_USER_UPLOAD"
+          },
+          {
+            "fieldName": "Requested",
+            "value": false,
+            "prevValue": true
+          },
+          {
+            "fieldName": "Comment",
+            "value": "",
+            "prevValue": "[required]"
+          }
+        ]
+      },
+      {
+        "id": 68,
+        "playerId": 398795,
+        "kycRequestableDocId": 52,
+        "author": "admin",
+        "historyLogAction": "UPDATE",
+        "created": "2023-08-30T16:01:13",
+        "currentDocumentType": "ID/Selfie verification",
+        "changedFields": [
+          {
+            "fieldName": "VerificationStatus",
+            "value": "VERIFIED_SUCCESSFULLY",
+            "prevValue": "WAIT_USER_UPLOAD"
+          },
+          {
+            "fieldName": "Requested",
+            "value": false,
+            "prevValue": true
+          },
+          {
+            "fieldName": "Comment",
+            "value": "",
+            "prevValue": "[required]"
+          }
+        ]
+      },
+      {
+        "id": 67,
+        "playerId": 398795,
+        "kycRequestableDocId": 56,
+        "author": "admin",
+        "historyLogAction": "UPDATE",
+        "created": "2023-08-30T16:01:07",
+        "currentDocumentType": "3rd Party ID",
+        "changedFields": [
+          {
+            "fieldName": "Requested",
+            "value": true,
+            "prevValue": false
+          },
+          {
+            "fieldName": "Comment",
+            "value": "[required]",
+            "prevValue": ""
+          }
+        ]
+      },
+      {
+        "id": 66,
+        "playerId": 398795,
+        "kycRequestableDocId": 55,
+        "author": "admin",
+        "historyLogAction": "UPDATE",
+        "created": "2023-08-30T16:01:02",
+        "currentDocumentType": "Credit Card next to Face",
+        "changedFields": [
+          {
+            "fieldName": "Requested",
+            "value": true,
+            "prevValue": false
+          },
+          {
+            "fieldName": "Comment",
+            "value": "[required]",
+            "prevValue": ""
+          }
+        ]
+      },
+      {
+        "id": 65,
+        "playerId": 398795,
+        "kycRequestableDocId": 54,
+        "author": "admin",
+        "historyLogAction": "UPDATE",
+        "created": "2023-08-30T16:00:57",
+        "currentDocumentType": "ID next to Face",
+        "changedFields": [
+          {
+            "fieldName": "Requested",
+            "value": true,
+            "prevValue": false
+          },
+          {
+            "fieldName": "Comment",
+            "value": "[required]",
+            "prevValue": ""
+          }
+        ]
+      },
+      {
+        "id": 64,
+        "playerId": 398795,
+        "kycRequestableDocId": 53,
+        "author": "admin",
+        "historyLogAction": "UPDATE",
+        "created": "2023-08-30T16:00:52",
+        "currentDocumentType": "Address verification",
+        "changedFields": [
+          {
+            "fieldName": "Requested",
+            "value": true,
+            "prevValue": false
+          },
+          {
+            "fieldName": "Comment",
+            "value": "[required]",
+            "prevValue": ""
+          }
+        ]
+      },
+      {
+        "id": 63,
+        "playerId": 398795,
+        "kycRequestableDocId": 52,
+        "author": "admin",
+        "historyLogAction": "UPDATE",
+        "created": "2023-08-30T16:00:48",
+        "currentDocumentType": "ID/Selfie verification",
+        "changedFields": [
+          {
+            "fieldName": "Requested",
+            "value": true,
+            "prevValue": false
+          },
+          {
+            "fieldName": "Comment",
+            "value": "[required]",
+            "prevValue": ""
+          }
+        ]
+      },
+      {
+        "id": 62,
+        "playerId": 398795,
+        "kycRequestableDocId": 56,
+        "author": "kyc-doc-upload-app",
+        "historyLogAction": "CREATE",
+        "created": "2023-08-30T16:00:38",
+        "currentDocumentType": "3rd Party ID",
+        "changedFields": [
+          {
+            "fieldName": "DocumentType",
+            "value": "3rd Party ID"
+          },
+          {
+            "fieldName": "VerificationStatus",
+            "value": "WAIT_USER_UPLOAD"
+          },
+          {
+            "fieldName": "Requested",
+            "value": false
+          }
+        ]
+      },
+      {
+        "id": 61,
+        "playerId": 398795,
+        "kycRequestableDocId": 55,
+        "author": "kyc-doc-upload-app",
+        "historyLogAction": "CREATE",
+        "created": "2023-08-30T16:00:38",
+        "currentDocumentType": "Credit Card next to Face",
+        "changedFields": [
+          {
+            "fieldName": "DocumentType",
+            "value": "Credit Card next to Face"
+          },
+          {
+            "fieldName": "VerificationStatus",
+            "value": "WAIT_USER_UPLOAD"
+          },
+          {
+            "fieldName": "Requested",
+            "value": false
+          }
+        ]
+      },
+      {
+        "id": 60,
+        "playerId": 398795,
+        "kycRequestableDocId": 54,
+        "author": "kyc-doc-upload-app",
+        "historyLogAction": "CREATE",
+        "created": "2023-08-30T16:00:38",
+        "currentDocumentType": "ID next to Face",
+        "changedFields": [
+          {
+            "fieldName": "DocumentType",
+            "value": "ID next to Face"
+          },
+          {
+            "fieldName": "VerificationStatus",
+            "value": "WAIT_USER_UPLOAD"
+          },
+          {
+            "fieldName": "Requested",
+            "value": false
+          }
+        ]
+      },
+      {
+        "id": 59,
+        "playerId": 398795,
+        "kycRequestableDocId": 53,
+        "author": "kyc-doc-upload-app",
+        "historyLogAction": "CREATE",
+        "created": "2023-08-30T16:00:38",
+        "currentDocumentType": "Address verification",
+        "changedFields": [
+          {
+            "fieldName": "DocumentType",
+            "value": "Address verification"
+          },
+          {
+            "fieldName": "VerificationStatus",
+            "value": "WAIT_USER_UPLOAD"
+          },
+          {
+            "fieldName": "Requested",
+            "value": false
+          }
+        ]
+      },
+      {
+        "id": 58,
+        "playerId": 398795,
+        "kycRequestableDocId": 52,
+        "author": "kyc-doc-upload-app",
+        "historyLogAction": "CREATE",
+        "created": "2023-08-30T16:00:38",
+        "currentDocumentType": "ID/Selfie verification",
+        "changedFields": [
+          {
+            "fieldName": "DocumentType",
+            "value": "ID/Selfie verification"
+          },
+          {
+            "fieldName": "VerificationStatus",
+            "value": "WAIT_USER_UPLOAD"
+          },
+          {
+            "fieldName": "Requested",
+            "value": false
+          }
+        ]
+      }
+    ],
+    "pageable": {
+      "sort": {
+        "sorted": false,
+        "unsorted": true,
+        "empty": true
+      },
+      "pageSize": 100,
+      "pageNumber": 0,
+      "offset": 0,
+      "unpaged": false,
+      "paged": true
+    },
+    "totalElements": 22,
+    "totalPages": 1,
+    "last": true,
+    "first": true,
+    "sort": {
+      "sorted": false,
+      "unsorted": true,
+      "empty": true
+    },
+    "size": 100,
+    "number": 0,
+    "numberOfElements": 22,
+    "empty": false
+  }
+}
