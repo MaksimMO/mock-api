@@ -4,12 +4,15 @@ const port = 3000;
 
 const responseMappings = {
   '/api/mockdata': 'data.json',
-  '/player-module/player/read?playertoken=s4lbocmz973509': "player-module__player.json",
-  '/kyc-module/v1.0/configs/ngdtqg496134/value?configName=AUTO_KYC_VALIDATION': {"value":true},
-  '/kyc-module/v1.0/configs/ngdtqg496134/value?configName=AUTO_KYC_VERIFICATION': {"value":true},
-  '/kyc-module/verification/v1.2/players/ngdtqg496134': {"data":{"code":0}},
-  '/kyc-module/v1.1/kycdocverification/ngdtqg496134/verificationType' : 'kyc-module-verificationType.json',
-  '/kyc-module/fsbo/history?playerToken=s4lbocmz973509&page=0&size=100' : "kycDocumentsHistory.json"
+  '/kyc-module/v1.0/configs/s4lbocmz973509/value?configName=AUTO_KYC_VALIDATION': {"value":true},
+  '/kyc-module/v1.0/configs/s4lbocmz973509/value?configName=AUTO_KYC_VERIFICATION': {"value":true},
+  '/kyc-module/verification/v1.2/players/s4lbocmz973509': {"data":{"code":0}},
+  '/kyc-module/v1.1/kycdocverification/s4lbocmz973509/verificationType' : '/mocks/kyc-module-verificationType.json',
+  '/kyc-module/fsbo/history?playerToken=s4lbocmz973509&page=0&size=100' : "/mocks/kycDocumentsHistory.json",
+  '/kyc-module/fsbo/requestableDocuments?playerToken=s4lbocmz973509' : "/mocks/kyc-module-requestableDocuments.json",
+  '/kyc-module/fsbo/requestableDocuments?playerToken=madona555555' : "/mocks/kyc-module-requestableDocuments2.json",
+  '/player-module/player/read?playertoken=s4lbocmz973509': "/mocks/player-module__player.json",
+  '/player-module/v2/players?q=s4lbocmz973509' : "/mocks/player-module-v2-players.json"
 };
 
 const server = http.createServer((req, res) => {
