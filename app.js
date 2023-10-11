@@ -4,15 +4,16 @@ const port = 3000;
 
 const responseMappings = {
   '/api/mockdata': 'data.json',
-  '/kyc-module/v1.0/configs/s4lbocmz973509/value?configName=AUTO_KYC_VALIDATION': {"value":true},
-  '/kyc-module/v1.0/configs/s4lbocmz973509/value?configName=AUTO_KYC_VERIFICATION': {"value":true},
-  '/kyc-module/verification/v1.2/players/s4lbocmz973509': {"data":{"code":0}},
-  '/kyc-module/v1.1/kycdocverification/s4lbocmz973509/verificationType' : '/mocks/kyc-module-verificationType.json',
-  '/kyc-module/fsbo/history?playerToken=s4lbocmz973509&page=0&size=100' : "/mocks/kycDocumentsHistory.json",
-  '/kyc-module/fsbo/requestableDocuments?playerToken=s4lbocmz973509' : "/mocks/kyc-module-requestableDocuments.json",
-  '/kyc-module/fsbo/requestableDocuments?playerToken=madona555555' : "/mocks/kyc-module-requestableDocuments2.json",
-  '/player-module/player/read?playertoken=s4lbocmz973509': "/mocks/player-module__player.json",
-  '/player-module/v2/players?q=s4lbocmz973509' : "/mocks/player-module-v2-players.json"
+  '/kyc-module/v1.0/configs/s4tvvonz740203/value?configName=AUTO_KYC_VALIDATION': {"value":true},
+  '/kyc-module/v1.0/configs/s4tvvonz740203/value?configName=AUTO_KYC_VERIFICATION': {"value":true},
+  '/kyc-module/verification/v1.2/players/s4tvvonz740203': {"data":{"code":0}},
+  '/kyc-module/v1.1/kycdocverification/s4tvvonz740203/verificationType' : '/mocks/kyc-module-verificationType.json',
+  '/kyc-module/fsbo/history?playerToken=s4tvvonz740203&page=0&size=100' : "/mocks/kycDocumentsHistory.json",
+  '/kyc-module/fsbo/requestableDocuments?playerToken=s4tvvonz740203' : "/mocks/kyc-module-requestableDocuments.json",
+  '/kyc-module/fsbo/requestableDocument?playerToken=s4tvvonz740203&id=6' : "/mocks/kyc-module-requestableDocument_6.json",
+  '/kyc-module/fsbo/requestableDocument?playerToken=s4tvvonz740203&id=1' : "/mocks/kyc-module-requestableDocument_1.json",
+  '/player-module/player/read?playertoken=s4tvvonz740203': "/mocks/player-module__player.json",
+  '/player-module/v2/players?q=s4tvvonz740203' : "/mocks/player-module-v2-players.json"
 };
 
 const server = http.createServer((req, res) => {

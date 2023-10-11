@@ -1,0 +1,17 @@
+{
+  "data": {
+    "id": 1,
+    "playerId": 398716,
+    "documentSection": "ID_VERIFICATION",
+    "requested": false,
+    "verificationStatus": "WAIT_USER_UPLOAD",
+    "documentType": "One of: Basic Resident Register Card and selfie, Driving license and selfie, Foreign Residence Card or Passport and selfie, My number card and selfie, Passport and selfie, Special Permanent Resident Certificate and selfie.",
+    "created": "2023-10-02T07:36:31",
+    "updated": "2023-10-02T07:36:31",
+    "createNote": false,
+    "highlighted": false,
+    "manuallyCreated": false,
+    "sectionDisplayName": "ID/Selfie verification",
+    "versionCode": "1237173687"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "id": 6,
+    "paymentAccountCategory": "Bank account",
+    "playerId": 398716,
+    "documentSection": "PAYMENT_ACCOUNT_VERIFICATION",
+    "requested": true,
+    "verificationStatus": "WAIT_USER_UPLOAD",
+    "documentType": "fhgfdhfdhg",
+    "comment": "[required]fggfhf",
+    "created": "2023-10-02T08:05:33",
+    "updated": "2023-10-02T08:05:33",
+    "createNote": false,
+    "highlighted": false,
+    "manuallyCreated": true,
+    "sectionDisplayName": "Payment method verification",
+    "versionCode": "491164149"
+  }
+}
