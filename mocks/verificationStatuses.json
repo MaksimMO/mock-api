@@ -1,0 +1,44 @@
+{
+    "data": [
+      {
+        "code": 0,
+        "description": "Unverified"
+      },
+      {
+        "code": 1,
+        "description": "E-KYC Light"
+      },
+      {
+        "code": 2,
+        "description": "E-KYC Verified"
+      },
+      {
+        "code": 3,
+        "description": "Verified via National ID"
+      },
+      {
+        "code": 4,
+        "description": "KYC Confirmed - Docs Verified"
+      },
+      {
+        "code": 5,
+        "description": "KYC Renewal Required"
+      },
+      {
+        "code": 6,
+        "description": "Verified via National ID + Address"
+      },
+      {
+        "code": 7,
+        "description": "Unverified - Failed Verification"
+      },
+      {
+        "code": 8,
+        "description": "E-KYC Verified + ID Verified"
+      },
+      {
+        "code": 9,
+        "description": "Validated"
+      }
+    ]
+  }
